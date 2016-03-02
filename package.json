@@ -1,0 +1,20 @@
+{
+  "name": "nuimo-web-game",
+  "version": "1.0.0",
+  "description": "simple 2d game to move an object around using a nuimo controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuimo",
+    "matter-js"
+  ],
+  "author": "parker.brendon@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nuimo-node": "git://github.com/brendonparker/nuimo-node-demo.git",
+    "socket.io": "^1.4.5"
+  }
+}
